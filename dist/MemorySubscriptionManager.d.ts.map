@@ -1,0 +1,1 @@
+{"version":3,"file":"MemorySubscriptionManager.d.ts","sourceRoot":"","sources":["../src/MemorySubscriptionManager.ts"],"names":[],"mappings":"AACA,OAAO,EACL,WAAW,EACX,WAAW,EACX,oBAAoB,EACpB,gBAAgB,EACjB,MAAM,SAAS,CAAC;AAOjB,qBAAa,yBAA0B,YAAW,oBAAoB;IACpE,OAAO,CAAC,aAAa,CAA6B;;IAMlD,sBAAsB,gGAcpB;IAEF,SAAS;;wBAyBP;IAEF,WAAW,6CAST;IAEF,oBAAoB,+DAWlB;IAEF,4BAA4B,0CAW1B;CACH"}
